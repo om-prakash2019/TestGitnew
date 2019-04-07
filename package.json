@@ -1,0 +1,27 @@
+{
+  "name": "testgitnew",
+  "version": "1.0.0",
+  "description": "initializing the testgitnew folder as a workspace with package.json file",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\"",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/om-prakash2019/TestGitnew.git"
+  },
+  "keywords": [
+    "testgitnew"
+  ],
+  "author": "om-prakash2019",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/om-prakash2019/TestGitnew/issues"
+  },
+  "homepage": "https://github.com/om-prakash2019/TestGitnew#readme",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
